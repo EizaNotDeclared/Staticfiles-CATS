@@ -195,3 +195,6 @@ body.loading {
 .w-min-content {
     width: min-content !important
 }
+.acceptColor{
+    background-color: aquamarine;
+}
