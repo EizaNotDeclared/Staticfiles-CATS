@@ -3102,6 +3102,10 @@ textarea.form-control-lg {
   background-color: #0dcaf0;
   border-color: #0dcaf0;
 }
+.btn-accept {
+  background-color: #198754;
+  border-color: #198754;
+}
 .btn-info:hover {
   color: #000;
   background-color: #31d2f2;
